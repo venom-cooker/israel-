@@ -1,0 +1,321 @@
+@media (max-width:720px){
+	body {
+		background-color: #0F2656 !important;
+	}
+	.jiraf {
+		color: #FFFFFF;
+		font-size: 48pt !important;;
+		font-family: jaro;
+		margin-left: 300px !important;;
+		margin-top: 200px !important;;
+		opacity: 0.8 !important;
+	}
+		.ggg{
+		background-color: #D9D9D9;
+		width: 100%;
+		height: 20px !important;;
+		display: flex;
+	}
+		.yy{
+		background-color: #000000;
+		width: 40%;
+		height: 20px !important;;
+	}
+		nav div{
+		background-color: #17156B;
+		width: 15% !important;
+		height: 20px !important;
+	}
+		.rr{
+		color: #FFFFFF;
+		font-size: 32pt !important;
+		font-family: jaro;
+		margin-left: 200px !important;
+		margin-top: 270px !important;
+		opacity: 1;
+	}
+		.b1{
+		width: 50px !important;
+		height: 70px !important;
+		background-color: #D6DAFF;
+		margin-left: 600px !important;
+		margin-top: 140px !important;
+		border: 3px #ACB3F1 solid;
+	}
+	.b2{ 
+		width: 50px !important;
+		height: 60px !important;
+		background-color: #ACB3F1;
+		margin-left: 600px !important;
+		margin-top: 40px !important;
+		border: 3px #969FEC solid;
+	}
+	.b3{
+		width: 50px !important;
+		height: 40px !important;
+		background-color: #969FEC;
+		position: absolute;
+		margin-left: 600px !important;
+		margin-top: 250px !important;
+		border: 3px #5F6BD2 solid;
+	}
+	.b4{
+		width: 0px !important;
+		height: 0px !important;
+		background-color: gray !important;
+		margin-left: 600px !important;
+		margin-top: 10px !important;
+		border: 3px #3844AA solid;
+	}
+	.b5{
+		width: 0px !important;
+		height: 0px !important;
+		background-color: #3844AA;
+		margin-left: 600px !important;
+		margin-top: 25px !important;
+		border: 3px #D6DAFF solid;
+	}
+		.iii{
+		font-size: 11pt !important;
+		text-align: center;
+		color: #99ABD1;
+		font-family: jaro;
+		padding-left: 40px !important;
+		padding-top: 2px !important;
+	}
+		.section {
+	  display: flex;
+	  align-items: center;
+	  justify-content: space-between;
+	  padding: 30px !important;
+	}
+	.section img {
+	  max-height: 100px !important;
+	  border-radius: 10px;
+	  box-shadow: 0 0 10px #000;
+	}
+		.ttxx {
+		color: #FFF;
+		font-family: Jaro;
+		font-size: 80px !important;
+		font-style: normal;
+		line-height: normal;
+		margin-left: 12% !important;
+		margin-top: 180px;
+	}
+	.sound {
+	margin-left: 35% !important;
+	margin-top: 110px;
+	width: 40%;
+	position: absolute;
+	font-size: 32px !important;
+	font-family: Jaro;
+	color: #fff;
+	}
+		.rectangle-div1 {
+	margin-left: 8% !important;
+	margin-top: 100px !important;
+	position: absolute;
+	width: 80% !important;
+	border-radius: 100px;
+	background-color: #0e133e;
+	height: 55px !important;
+	}
+		.sound1 {
+		margin-left: 20% !important;
+		margin-top: 310px;
+		width: 40%;
+		position: absolute;
+		font-size: 32px !important;
+		font-family: Jaro;
+		color: #fff;
+	}
+		.rectangle-div2 {
+	margin-left: 8% !important;
+	margin-top: 300px;
+	position: absolute;
+	width: 80% !important;
+	border-radius: 100px;
+	background-color: #0e133e;
+	height: 55px !important;
+	}
+		.sound2 {
+		margin-left: 25% !important;
+		margin-top: 510px;
+		width: 40%;
+		position: absolute;
+		font-size: 32px !important;
+		font-family: Jaro;
+		color: #fff;
+	}
+		.rectangle-div3 {
+	margin-left: 8% !important;
+	margin-top: 500px;
+	position: absolute;
+	width: 80% !important;
+	border-radius: 100px;
+	background-color: #0e133e;
+	height: 55px !important;
+	}
+		.npn{
+		background-color: #212865;
+		width: 100%;
+		height: 101px !important;
+	}
+		.opoo{
+		color: #FFF;
+	text-align: center;
+	font-family: Jaro;
+	font-size: 82px !important;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 100px !important;
+	}
+		.bg2{
+		background: linear-gradient(180deg, #3844AA 0%, #171B44 80.57%);
+		height: 623px !important;
+	}
+		.npnn{
+		background-color: #212865;
+		width: 100%;
+		height: 101px !important;
+		margin-top: 200px !important;
+	}
+		.bg{
+		background: linear-gradient(180deg, #969FEC 0%, #555A86 87.74%);
+		height: 610px !important;
+	}
+		.frame-childs {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: #223760;
+	width: 100%;
+	height: 200px !important;
+	}
+		.historys {
+	position: absolute;
+	top: 28px;
+	left: 80px !important;
+	font-size: 96px !important;
+	color: #071738;
+	text-align: left;
+	}
+		.frame-items {
+	position: absolute;
+	top: 247px !important;
+	left: 0px;
+	background-color: #2b4371;
+	width: 100% !important;
+	height: 777px;
+	}
+		.icon {
+	position: absolute;
+	top: 664px;
+	left: 30% !important;
+	width: 261px;
+	height: 336px;
+	object-fit: cover;
+	}
+		.icon1 {
+	position: absolute;
+	top: 258px;
+	left: 700px !important;
+	width: 261px;
+	height: 336px;
+	object-fit: cover;
+	}
+		.image-1-icons{
+	position: absolute;
+	top: 60px !important;
+	left: 510px !important;
+	width: 70px;
+	height: 70px;
+	object-fit: cover;
+	}
+		.after-centuries-ofs {
+	position: absolute;
+	top: 604px;
+	left: 700px !important;
+	display: inline-block;
+	width: 454px;
+	}
+		.the-modern-states {
+	position: absolute;
+	top: 270px;
+	left: 13% !important;
+	display: inline-block;
+	width: 500px !important;
+	height: 459px;
+	}
+	.economy1 {
+	position: absolute;
+	top: 50px !important;
+	left: 50px !important;
+	font-size: 96px !important;
+	color: #071738;
+	text-align: left;
+	}
+	.image-2-icon {
+	position: absolute;
+	top: 80px !important;
+	left: 550px !important;
+	width: 70px;
+	height: 70px;
+	object-fit: cover;
+	}
+		.frame-item {
+	top: 270px !important;
+	left: 0px;
+	background-color: #10304f;
+	width: 100%;
+	height: 259px !important;
+	}
+		.rediv {
+	top: 765px  !important;
+	left: 0px;
+	background-color: #09243f;
+	width: 100%;
+	height: 259px;
+	}
+		.frame-inner {
+	top: 520px !important;
+	left: 0px;
+	background-color: #0d2c4a;
+	width: 100%;
+	height: 259px;
+	}
+		.in-the-cente{
+		margin-top: 10% !important;
+		font-size: 16pt !important;
+		text-align: center !important;
+	}
+	.in-the-centerr{
+		margin-right: 46% !important;
+		font-size: 16pt !important;
+	}
+		.in-the-center-container {
+	position: absolute;
+	top: 560px !important;
+	left: 0px !important;
+	display: inline-block;
+	width: 1287px;
+	}
+		.in-the-center {
+		font-size: 14pt !important;
+		margin-right: 53% !important;
+	}
+		.geography1 {
+	position: absolute;
+	top: 60px !important;
+	left: 50px !important;
+	font-size: 82px !important;
+	color: #071738;
+	text-align: left;
+	}
+	.in-the-centerrr{
+		font-size: 14pt !important;
+		margin-right: 48% !important;
+	}
+}
